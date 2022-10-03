@@ -1,0 +1,22 @@
+{
+  "name": "form-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "cpf-cnpj-validator": "^1.0.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "libphonenumber-js": "^1.10.13",
+    "mongoose": "^6.5.2",
+    "nodemon": "^2.0.19",
+    "sucrase": "^3.25.0",
+    "yup": "^0.32.11"
+  }
+}
